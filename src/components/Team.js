@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { TeamCard } from "./TeamCard";
-import projImg1 from "../assets/img/revo.png";
+import projImg1 from "../assets/img/luigee.jpg";
 import projImg2 from "../assets/img/0xzeed.png";
 import projImg4 from "../assets/img/ilham.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -12,7 +12,7 @@ export const Team = () => {
 
   const team = [
     {
-      title: "0xRevo",
+      title: "Luigee",
       description: "Founder",
       imgUrl: projImg1,
 
